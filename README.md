@@ -1,3 +1,19 @@
+**Additional information:**
+
+The purpose of this repository is to save the state of the work I did as a part of my bachelor thesis. Ongoing development can be found [here](https://github.com/rschoene/scorep_substrates_dynamic_filtering).
+
+Additionally, my bachelor thesis as well as the beloning final presentation (both in German) can be found in the `pdf` directory. You can cite it like follows:
+
+    @phdthesis{trommler2016,
+        title   = {Dynamische Anpassung Compiler-basierter Instrumentierung unter Nutzung von Laufzeitstatistiken},
+        author  = {Trommler, Ph.},
+        school  = {Technische Universität Dresden},
+        year    = {2016},
+        type    = {Bachelor thesis}
+    }
+
+**End of additional information.**
+
 # Dynamic Filtering Plugin for Score-P
 
 This plugin filters instrumentation calls from a binary instrumented with Score-P. Filtered calls
